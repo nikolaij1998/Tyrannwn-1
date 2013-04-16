@@ -1,0 +1,6 @@
+developer=http://205.196.123.161/a0rsolo3vzag/q5l1b74knaot8pb/tyrannwnDeveloperCape.png
+developer=wer_wolv
+friends=http://www.myurl.com/TESTER_CAPE.png
+friends=patrice13
+helper=http://www.myurl.com/DEV_CAPE.png
+helper=
