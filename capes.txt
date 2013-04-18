@@ -1,4 +1,4 @@
-developer=http://205.196.123.171/csdwwjf9ffbg/42ph93fhc4y9zsy/developerCape.png
+developer=http://205.196.123.27/hstdnbzckuhg/0cb8bhehm5ls9dd/developerCape%282%29.png
 developer=wer_wolv
 friends=http://www.myurl.com/TESTER_CAPE.png
 friends=patrice13
