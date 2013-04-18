@@ -1,6 +1,7 @@
 developer=http://205.196.123.27/hstdnbzckuhg/0cb8bhehm5ls9dd/developerCape%282%29.png
 developer=wer_wolv
-friends=http://www.myurl.com/TESTER_CAPE.png
+friends=http://199.91.152.148/37u67518778g/hbug1k961crrr9y/friendsCape.png
 friends=patrice13
-MineCraftDE=http://www.myurl.com/DEV_CAPE.png
+friends=partyplayer97
+MineCraftDE=http://205.196.123.189/lk1bzg9gjkeg/58qkltjbjqgp44g/minecraftDECape.png
 MineCraftDE=
