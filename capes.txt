@@ -1,7 +1,7 @@
-developer=http://205.196.123.27/hstdnbzckuhg/0cb8bhehm5ls9dd/developerCape%282%29.png
+developer=https://dl-web.dropbox.com/get/developerCape.png?w=AABnHcfC7ibPtCA4xt7udKQDqMJ9vuIE13feIJoivVcHQQ
 developer=wer_wolv
-friends=http://199.91.152.148/37u67518778g/hbug1k961crrr9y/friendsCape.png
+friends=https://dl-web.dropbox.com/get/friendsCape.png?w=AACI6AwvEzhUFlxw4-ZgHAhWmUJ08nmc6fgfB7sFUiGOEQ
 friends=patrice13
 friends=partyplayer97
-MineCraftDE=http://205.196.123.189/lk1bzg9gjkeg/58qkltjbjqgp44g/minecraftDECape.png
-MineCraftDE=
+MineCraftDE=https://dl-web.dropbox.com/get/minecraftDECape.png?w=AACji2vEXLHsVbTTs99igNSVmyzzgEhDm3JwwQJ0KFUjgw
+MineCraftDE=Lurchi029
